@@ -1,4 +1,4 @@
 .DS_Store
-Scrumdinger/ScrumdingerTests/
-Scrumdinger/ScrumdingerUITests/
-Scrumdinger/Scrumdinger.xcodeproj/
+/Scrumdinger/ScrumdingerTests/
+/Scrumdinger/ScrumdingerUITests/
+/Scrumdinger/Scrumdinger.xcodeproj/
